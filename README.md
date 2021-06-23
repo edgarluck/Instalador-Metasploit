@@ -21,4 +21,7 @@ Script hecho en bash, Descarga Metasploit en Termux
 
  $ bash Instalador.sh
 
- 
+
+
+ TELEGRAM: https://t.me/EdgarLuck
+
