@@ -24,8 +24,9 @@ sleep 1.2
 bash Instalador-Metasploit.sh
 echo -e ${verde}"
                 Presione ' cd '
+                Y enter.
 "
-sleep 3
+sleep 0.1
 echo -e ${verde}" 
                 Y ejecute Metasploit con el siguiente
 		comando : msfconsole
