@@ -1,7 +1,9 @@
 # Instalador-Metasploit
-Script hecho en bash, Descarga Metasploit en Termux
+Script hecho en bash, Descarga Metasploit en Termux solo disponible para las versiones de Android 7 por hacia delante.
 
 🔰Requisitos🔰
+
+ [*] Android 7 por adelante
 
  [*] git
  
@@ -11,7 +13,11 @@ Script hecho en bash, Descarga Metasploit en Termux
 
  $ apt upgrade
  
- $ pkg install git -y
+ $ pkg install git
+
+ $ pkg install wget
+
+ $ pkg install postgresql
 
  $ git clone https://github.com/edgarluck/Instalador-Metasploit.git
 
