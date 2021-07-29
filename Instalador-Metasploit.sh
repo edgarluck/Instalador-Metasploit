@@ -58,6 +58,15 @@ sleep 2.5
 echo -e ${verde}"°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°"
 sleep 1.5
 echo ""
+echo -e $verde".              [Descargando postgresql]
+"
+sleep 2
+echo -e "$verde[$blanco*$verde]$blanco Descargando..."
+sleep 1.5
+pkg install postgresql -y
+echo ""
+echo -e "$verde[+]$blanco postgresql Instalado"
+sleep 2
 echo -e ${verde}"Iniciando :"${blanco}
 sleep 1.8
 wget https://raw.githubusercontent.com/gushmazuko/metasploit_in_termux/master/metasploit.sh
