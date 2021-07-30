@@ -22,6 +22,7 @@ sleep 2
 clear
 sleep 1.2
 bash Instalador-Metasploit.sh
+rm Instalador-Metasploit.sh
 echo -e ${verde}"
                 Presione ' cd '
                 Y enter.
