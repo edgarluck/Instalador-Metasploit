@@ -28,6 +28,6 @@ Script hecho en bash, Descarga Metasploit en Termux solo disponible para las ver
  $ bash Instalador.sh
 
 
-
- TELEGRAM: https://t.me/EdgarLuck
+Grupo de Ayuda
+https://t.me/Linux_Informatic
 
