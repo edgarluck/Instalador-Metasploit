@@ -39,7 +39,7 @@ cd ~
 echo -e "${G}[+]${W} VERIFICANDO EL INSTALADOR"
 sleep 0.5
 if [[ -f "msf-meta.sh" ]]; then
-echo -e "$G[+]$W Listo"|pv -qL 15
+echo -e "$G[+]$W Listo"
 sleep 0.5
 else
 echo -e "${R}ERROR NO ESTA EL ARCHIVO, EJECUTE DE NUEVO";sleep2;exit1;
