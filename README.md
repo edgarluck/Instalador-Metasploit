@@ -25,7 +25,7 @@ Script hecho en bash, Descarga Metasploit en Termux solo disponible para las ver
 
  $ chmod +x *
 
- $ bash Instalador.sh
+ $ bash install.sh
 
 
 Grupo de Ayuda
