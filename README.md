@@ -27,7 +27,9 @@ Script hecho en bash, Descarga Metasploit en Termux solo disponible para las ver
 
  $ bash install.sh
 
+# Seguir los pasos del vídeo : https://youtu.be/ayX549gUDIs
+# ojo ... Seguir los pasos del vídeo 👀
 
-Grupo de Ayuda
+###Grupo de Ayuda
 https://t.me/Linux_Informatic
 
